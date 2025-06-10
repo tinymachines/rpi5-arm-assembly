@@ -382,10 +382,7 @@ Special thanks to:
 
 ### Getting Help
 
-- 📧 **Email**: support@example.com
-- 💬 **Discord**: [Join our community](https://discord.gg/example)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/username/rpi5-arm64-assembly/issues)
-- 📚 **Wiki**: [Project Wiki](https://github.com/username/rpi5-arm64-assembly/wiki)
+- 📧 **Email**: spicy@meatball.ai
 
 ### Frequently Asked Questions
 
@@ -402,7 +399,6 @@ A: Use GDB with our debugging guide in `tutorials/debugging/`.
 
 - ⭐ **Star** this repository for updates
 - 👁️ **Watch** for new tutorials and examples
-- 🐦 **Follow** [@username](https://twitter.com/username) for tips
 
 -----
 
