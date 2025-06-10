@@ -179,7 +179,7 @@ rpi5-arm64-assembly/
 
 ## 🎓 Learning Path
 
-### 🌱 Beginner Track (Weeks 1-2)
+### 🌱 Beginner Track
 
 1. **Environment Setup** - Get your tools ready
 1. **First Program** - Write “Hello, World!” in assembly
@@ -187,7 +187,7 @@ rpi5-arm64-assembly/
 1. **Basic Instructions** - Learn essential operations
 1. **Simple I/O** - Read and write data
 
-### 🌿 Intermediate Track (Weeks 3-4)
+### 🌿 Intermediate Track
 
 1. **Control Flow** - Master branches and loops
 1. **Functions** - Create reusable code blocks
@@ -195,7 +195,7 @@ rpi5-arm64-assembly/
 1. **System Calls** - Interface with Linux kernel
 1. **Debugging** - Use GDB effectively
 
-### 🌳 Advanced Track (Weeks 5-6)
+### 🌳 Advanced Track
 
 1. **SIMD/NEON** - Vector processing operations
 1. **Performance** - Optimization techniques
